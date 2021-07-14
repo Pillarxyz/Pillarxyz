@@ -1,8 +1,13 @@
 ### Hi there 👋 I'm Ayman Lafaz, AI student from Morocco
 
+---
 
-
-![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pillarxyz&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pillarxyz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pillarxyz&repo=convoychat" />
+</a>
 
 
 <!--
