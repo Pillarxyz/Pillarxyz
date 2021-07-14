@@ -2,7 +2,8 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pillarxyz&repo=github-readme-stats)](https://github.com/Pillarxyz/github-readme-stats)
+![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&layout=compact&langs_count=6&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/Pillarxyz/github-readme-stats)
 
 
 
