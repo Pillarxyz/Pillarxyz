@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ayman Lafaz, AI student from Morocco
 
-- 📫 How to reach me: aymanlafaz@protonmail.com
+- 📫 How to reach me: **aymanlafaz@protonmail.com**
 
 ---
 
