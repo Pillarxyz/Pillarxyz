@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Ayman Lafaz, AI student from Morocco
 
+
+
+![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pillarxyz&show_icons=true&theme=radical)
+
 <!--
 **Pillarxyz/Pillarxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
