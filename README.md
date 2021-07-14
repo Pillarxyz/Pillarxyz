@@ -5,7 +5,6 @@
 ---
 
 ![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
----
 
 <h2 align="left">Also active on :</h2>
 <p align="left">
