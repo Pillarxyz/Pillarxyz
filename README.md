@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ayman Lafaz, AI student from ENSIAS (National School of Computer Science in Rabat, Morocco)
 
-- 📫 How to reach me: **aymanlafaz@ctemplar.com**
+- 📫 How to reach me: **pillarxyz@tuta.io**
 
 ---
 
