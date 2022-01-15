@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Ayman Lafaz, AI student from ENSIAS (National School of Computer Science in Rabat, Morocco)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pillarxyz&label=Profile%20views&color=e42a28&style=flat" alt="Pillarxyz" /> </p>
+
 - 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
 
 ---
