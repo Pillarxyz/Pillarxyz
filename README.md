@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pillarxyz&label=Profile%20views&color=e42a28&style=flat" alt="Pillarxyz" /> </p>
 
-- 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
-
 ---
-
+- 🌱 I’m currently learning **MLOps** and **Reinforcement Learning**
+- 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
+---
 ![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&langs_count=8&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)](https://github.com/Pillarxyz/github-readme-stats)
