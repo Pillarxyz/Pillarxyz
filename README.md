@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **MLOps** and **Reinforcement Learning**
 - 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
 ---
-![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
+![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&langs_count=8&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505&hide=jupyter%20notebook)](https://github.com/Pillarxyz/github-readme-stats)
 
