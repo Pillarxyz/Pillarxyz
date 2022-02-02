@@ -13,7 +13,7 @@
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-%2312100E.svg?logo=r&logoColor=blue&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a>
 <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?&logo=MySQL&style=for-the-badge"/></a>
-<a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&style=for-the-badge"/></a>
+<a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 
