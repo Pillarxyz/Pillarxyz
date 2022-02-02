@@ -17,7 +17,6 @@
 
 ### Technologies
 #### Data Science and ML
-![Scikit-learn](https://img.shields.io/badge/-sklearn-%2312100E.svg?logo=scikitlearn&logoColor=orange&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
