@@ -27,7 +27,6 @@
 
 ![WandB](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
 ![DVC](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=dataversioncontrol&logoColor=purple)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-%2312100E.svg?&logo=Linux&style=for-the-badge)
