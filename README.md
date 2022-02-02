@@ -25,6 +25,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)  
 
+![Heroku](https://img.shields.io/badge/heroku-%2312100E.svg?style=for-the-badge&logo=heroku&logoColor=purple)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
