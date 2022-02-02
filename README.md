@@ -8,10 +8,11 @@
 
 ![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
 
-<h3>📄 I can work with </h3>
+<h3>📄 Programming languages </h3>
 <p>
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-%2312100E.svg?logo=r&logoColor=blue&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a>
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"/></a>
 </p>
 
 <h2 align="left">Also active on :</h2>
