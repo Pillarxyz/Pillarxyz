@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pillarxyz&label=Profile%20views&color=e42a28&style=flat" alt="Pillarxyz" /> </p>
 
-I 
-
 - 🌱 I’m currently learning **MLOps** and **Reinforcement Learning**
 - 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
 ---
