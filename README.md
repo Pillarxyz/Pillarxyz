@@ -27,7 +27,7 @@
 
 <h2 align="left">Also active on :</h2>
 <p align="left">
-   <a href="https://www.kaggle.com/aymanlafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge" alt="Ayman Lafaz" height="30" width="40" /></a>
+   <a href="https://www.kaggle.com/aymanlafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
    &emsp;
 </p>
 
