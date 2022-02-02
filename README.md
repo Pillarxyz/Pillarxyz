@@ -12,7 +12,7 @@
 <p>
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-%2312100E.svg?logo=r&logoColor=blue&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?&logo=MySQL&style=for-the-badge"/></a>
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Bash-%2312100E.svg?&logo=gnu-bash&style=for-the-badge&logoColor=white"/></a>
 </p>
 
@@ -23,6 +23,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-%2312100E.svg?&logo=Linux&style=for-the-badge)
 
