@@ -25,7 +25,7 @@
 
 
 
-<h2 align="left">Also active on :</h2>
+<h3 align="left"> Follow Me</h3>
 <a href="https://www.kaggle.com/aymanlafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
 
 
