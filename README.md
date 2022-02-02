@@ -8,9 +8,7 @@
 
 <a href="https://github.com/pillarxyz/github-readme-stats">
    <img align="center" src='https://github-readme-stats.vercel.app/api/?username=pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505'/>
-</a>
-
-<a href="https://github.com/pillarxyz/github-readme-stats">
+   
    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&langs_count=8&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505&exclude_repo=dotfiles&layout=compact'/>
 </a>
 
