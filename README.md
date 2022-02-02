@@ -19,10 +19,12 @@
 
 ### Technologies
 
+![Scikit-learn](https://img.shields.io/badge/-sklearn-%2312100E.svg?logo=scikitlearn&logoColor=orange&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-%2312100E.svg?&logo=Linux&style=for-the-badge)
+
 
 
 
