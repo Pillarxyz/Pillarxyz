@@ -27,7 +27,7 @@
 
 #### MLOps
 
-![Heroku](https://img.shields.io/badge/Weights_&_Biases-2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
+![Heroku](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
 ![Heroku](https://img.shields.io/badge/heroku-%2312100E.svg?style=for-the-badge&logo=heroku&logoColor=purple)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
