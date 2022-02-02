@@ -7,7 +7,7 @@
 ---
 ![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&langs_count=8&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505exclude_repo=dotfiles)](https://github.com/pillarxyz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&langs_count=8&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505&exclude_repo=dotfiles,statistical-learning-theory-assignments)](https://github.com/pillarxyz/github-readme-stats)
 
 <h2 align="left">Also active on :</h2>
 <p align="left">
