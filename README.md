@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/pillarxyz/github-readme-stats">
-   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&langs_count=8&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505&exclude_repo=dotfiles&layout=compact)](https://github.com/pillarxyz/github-readme-stats'/>
+   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Pillarxyz&langs_count=8&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505&exclude_repo=dotfiles&layout=compact'/>
 </a>
 
 <h2 align="left">Also active on :</h2>
