@@ -21,10 +21,12 @@
 
 ![Scikit-learn](https://img.shields.io/badge/-sklearn-%2312100E.svg?logo=scikitlearn&logoColor=orange&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)  
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E.svg?style=for-the-badge&logo=mongodb&logoColor=green)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-%2312100E.svg?&logo=Linux&style=for-the-badge)
 
