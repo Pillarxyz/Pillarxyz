@@ -8,7 +8,7 @@
 
 ![Pillarxyz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=pillarxyz&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
 
-<h3>📄 Languages </h3>
+<h3>Languages </h3>
 <p>
 <a target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-%2312100E.svg?logo=r&logoColor=blue&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a>
@@ -27,8 +27,8 @@
 
 #### MLOps
 
-![Heroku](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
-![Heroku](https://img.shields.io/badge/heroku-%2312100E.svg?style=for-the-badge&logo=heroku&logoColor=purple)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
+![DVC](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=dataversioncontrol&logoColor=purple)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
