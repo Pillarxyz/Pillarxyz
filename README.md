@@ -18,13 +18,16 @@
 
 
 ### Technologies
-
+#### Data Science and ML
 ![Scikit-learn](https://img.shields.io/badge/-sklearn-%2312100E.svg?logo=scikitlearn&logoColor=orange&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)  
 
+#### MLOps
+
+![Heroku](https://img.shields.io/badge/Weights_&_Biases-2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
 ![Heroku](https://img.shields.io/badge/heroku-%2312100E.svg?style=for-the-badge&logo=heroku&logoColor=purple)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
