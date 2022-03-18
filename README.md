@@ -38,6 +38,6 @@
 <h3 align="left"> Follow Me</h3>
 <a href="https://www.kaggle.com/aymanlafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/ayman-lafaz-106145201/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-<a href="https://www.freelancer.com/u/aymanlafaz0" target="_blank"><img align="center" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/></a>
+<a href="https://www.freelancer.com/u/aymanlafaz0" target="_blank"><img align="center" src="https://img.shields.io/badge/Freelancer-%2312100E.svg?style=for-the-badge&logo=Freelancer&logoColor=white"/></a>
 <a href="https://stats.stackexchange.com/users/347187/ayman-lafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/StackExchange-%2312100E.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/></a>
 
