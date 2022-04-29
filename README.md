@@ -4,7 +4,7 @@
 
 > Striving to be a Fullstack Data Scientist
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **MLOps** and **HPC**
 - 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
 ---
 
