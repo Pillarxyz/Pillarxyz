@@ -5,7 +5,7 @@
 > Striving to be a Fullstack Data Scientist
 
 - 🌱 I’m currently learning **Time Series Classification**, **MLOps** and **HPC**
-- 📫 How to reach me: **ayman@aymanlafaz.xyz**
+- 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
 ---
 
 <h3>Languages </h3>
