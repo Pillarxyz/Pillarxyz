@@ -1,11 +1,7 @@
-### Hi there 👋 I'm Ayman Lafaz, AI student from ENSIAS (National School of Computer Science in Rabat, Morocco)
+### Hi there 👋 I'm Ayman Lafaz, AI student from ENSIAS and Freelance Data Scientist.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pillarxyz&label=Profile%20views&color=e42a28&style=flat" alt="Pillarxyz" /> </p>
 
-> Striving to be a Fullstack Data Scientist
-
-- 🌱 I’m currently learning **Time Series Classification**, **MLOps** and **HPC**
-- 📫 How to reach me: **ayman.lafaz@um5r.ac.ma**
 ---
 
 <h3>Languages </h3>
@@ -39,5 +35,6 @@
 <a href="https://www.kaggle.com/aymanlafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/ayman-lafaz-106145201/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
 <a href="https://www.freelancer.com/u/aymanlafaz0" target="_blank"><img align="center" src="https://img.shields.io/badge/Freelancer-%2312100E.svg?style=for-the-badge&logo=Freelancer&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01b5e1ce175b799d3d" target="_blank"><img align="center" src="https://img.shields.io/badge/UpWork-%2312100E?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
 <a href="https://stats.stackexchange.com/users/347187/ayman-lafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/StackExchange-%2312100E.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/></a>
 
