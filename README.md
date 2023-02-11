@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ayman Lafaz, AI student from ENSIAS and Freelance Data Scientist.
+### Hi there 👋 I'm Ayman Lafaz, Machine Learning Engineer and Freelancer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pillarxyz&label=Profile%20views&color=e42a28&style=flat" alt="Pillarxyz" /> </p>
 
@@ -38,3 +38,6 @@
 <a href="https://www.upwork.com/freelancers/~01b5e1ce175b799d3d" target="_blank"><img align="center" src="https://img.shields.io/badge/UpWork-%2312100E?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
 <a href="https://stats.stackexchange.com/users/347187/ayman-lafaz" target="_blank"><img align="center" src="https://img.shields.io/badge/StackExchange-%2312100E.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/></a>
 
+
+
+[![An image of @pillarxyz7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pillarxyz7)](https://holopin.io/@pillarxyz7)
